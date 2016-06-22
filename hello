@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Hello World in HTML5</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<h1>It is just a simple test in HTML5</h1>
+	<h2><b>Editor:</b> Sublime Text 3</h2>
+</body>
+</html>
